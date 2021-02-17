@@ -1,5 +1,3 @@
-# Ceibo main page 🌸
-
 Hello humans 👋
 
 This is the Ceibo main page. If you wanna some of FOSS visit github.com/ceibofoss
